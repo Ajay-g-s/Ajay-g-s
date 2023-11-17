@@ -1,8 +1,4 @@
-- 👋 Hi, I’m AJAY
-- 👀 I’m interested in WEB DEVELOMENT
-- 🌱 I’m currently learning JAVA SCRIPT
-- 💞️ I’m looking to collaborate on FULL STACK DEVELOPER
-- 📫 How to reach me ...
+Mean Stack Developer With 1+ Year of Experience, looking forward to challenging projects where I get an opportunity to brainstorm & develop quality solutions for the organisation & enhance my skills in the process.
 
 <!---
 Ajay-g-s/Ajay-g-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
